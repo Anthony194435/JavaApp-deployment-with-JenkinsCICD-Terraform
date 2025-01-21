@@ -1,5 +1,8 @@
 # CICD with jenkins-maven-sonarqube-docker-Eks-Terraform-Promethues-Grafana-newfile
 
+![Screenshot 2025-01-21 144703](https://github.com/user-attachments/assets/4f8cfab8-d841-4596-a7e5-3ee365a7f9f8)
+
+
 ![CICD for JavaApp](https://github.com/Ikechukwu980/cicd-deployment-with-JavaApp-Terraform/assets/106882590/81e366bf-68fc-479f-9627-6a3d202316a0)
 
 
